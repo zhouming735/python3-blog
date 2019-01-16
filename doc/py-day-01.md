@@ -1,6 +1,6 @@
-#python第一天，web运行hello world
+# **python第1天，web运行hello world**
 
-##web搭建  
+## **web搭建**  
 + 新建app.py文件  
 1.导入日志包，并设置日志输出级别INFO
 ~~~  
@@ -37,7 +37,7 @@ loop.run_forever()
 
 ~~~
 
-##注意事项
+## **注意事项**
 web.Response() 响应方法中需要设置参数content_type='text/html'，否则浏览器不能按要求输出html内容  
 
 

@@ -1,11 +1,11 @@
-#git命令
+# **git命令**  
 git init  
 git add README.md  
 git commit -m "first commit"  
 git remote add origin git@github.com:zhouming735/python3-blog.git  
 git push -u origin master  
 
-#环境准备
+# **环境准备**
 + python3.6 安装  
 + pyCharm IDE 安装  
 + web项目结构      
