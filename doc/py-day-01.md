@@ -10,8 +10,9 @@
 ├──www    //站点文件目录  
 │ ├──static  //静态文件目录  
 │ ├──templates  //模板文件目录  
+├──gitignore   //文件忽略规则设置文件   
 ├──LICENSE   //许可文件  
-├──README.MD  //项目描述文件  
+├──README  //项目描述文件  
 
 ##web搭建  
 + 新建app.py文件  
